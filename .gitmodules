@@ -4,6 +4,6 @@
 [submodule "ceng489-pa2"]
 	path = ceng489-pa2
 	url = https://github.com/tansly/ceng489-pa2
-[submodule "ceng489-hw3"]
-	path = ceng489-hw3
-	url = git@github.com:tansly/ceng489-hw3.git
+[submodule "simplepf"]
+	path = simplepf
+	url = git@github.com:tansly/simplepf.git
