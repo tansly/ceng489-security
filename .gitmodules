@@ -1,9 +1,9 @@
 [submodule "ceng489-pa1"]
 	path = ceng489-pa1
 	url = https://github.com/tansly/ceng489-pa1
-[submodule "ceng489-pa2"]
-	path = ceng489-pa2
-	url = https://github.com/tansly/ceng489-pa2
+[submodule "synflood"]
+	path = synflood
+	url = https://github.com/tansly/synflood
 [submodule "simplepf"]
 	path = simplepf
 	url = git@github.com:tansly/simplepf.git
